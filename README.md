@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/ysminkmliah/count.svg)
+![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysminkmliah&show_icons=true&theme=transparent)
 
