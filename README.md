@@ -33,23 +33,26 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,codeigniter,nextjs,mysql,postgres,git,vscode&theme=light"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nextjs,mysql,postgres,git,vscode&theme=light"/>
 
 </p>
 
 ---
 
-# 🌼 My GitHub Garden
+## 🌼 My GitHub Garden
 
-<p align="center">
-
-🌸 Building: Internal company systems
-🍓 Learning: Docker & Laravel 12
-☕ Drinking: Matcha latte
-🎧 Listening: Lo-fi & K-pop
-🐱 Debugging: One bug at a time...
-
-</p>
+| 🌷 Growing | Bloom Level |
+|------------|-------------|
+| 🍓 PHP | 🌸🌸🌸🌸🌸 |
+| 🌷 Laravel | 🌸🌸🌸🌸🌸 |
+| ☁️ Bootstrap | 🌸🌸🌸🌸🌸 |
+| 🧸 JavaScript | 🌸🌸🌸🌸 |
+| 🌱 CodeIgniter | 🌸🌸🌸🌸 |
+| 🪴 MySQL | 🌸🌸🌸🌸 |
+| 🌼 Microsoft SQL Server | 🌸🌸🌸🌸 |
+| 🎀 HTML5 & CSS3 | 🌸🌸🌸🌸🌸 |
+| 🌿 Git & GitHub | 🌸🌸🌸🌸 |
+| ☕ VS Code | 🌸🌸🌸🌸🌸 |
 
 ---
 
