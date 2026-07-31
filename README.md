@@ -20,7 +20,7 @@
 🌸 Name        :: Yasmin
 ☁️ Pronouns    :: she/her
 💻 Occupation  :: Full Stack Developer
-🌱 Learning    :: PHP • Cloud • New shiny things
+🌱 Learning    :: PHP • AI • New shiny things
 🍓 Favorite    :: Pink themes & clean code
 ☕ Fuel        :: a good matcha with a side of Taylor Swift
 ```
@@ -33,7 +33,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,docker,mysql,postgres,git,vscode&theme=light"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,codeigniter,nextjs,mysql,postgres,git,vscode&theme=light"/>
 
 </p>
 
@@ -42,9 +42,6 @@
 # 🌼 My GitHub Garden
 
 <p align="center">
-
-🌷 Currently Growing
-━━━━━━━━━━━━━━━━━━━━
 
 🌸 Building: Internal company systems
 🍓 Learning: Docker & Laravel 12
