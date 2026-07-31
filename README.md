@@ -33,7 +33,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,docker,mysql,postgres,git,vscode&theme=light"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,docker,mysql,postgres,git,vscode&theme=light"/>
 
 </p>
 
@@ -43,9 +43,14 @@
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ysminkmliah&show_icons=true&theme=rose_pine&hide_border=true"/>
+🌷 Currently Growing
+━━━━━━━━━━━━━━━━━━━━
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysminkmliah&layout=compact&theme=rose_pine&hide_border=true"/>
+🌸 Building: Internal company systems
+🍓 Learning: Docker & Laravel 12
+☕ Drinking: Matcha latte
+🎧 Listening: Lo-fi & K-pop
+🐱 Debugging: One bug at a time...
 
 </p>
 
